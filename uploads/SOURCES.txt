@@ -1,0 +1,32 @@
+KING JAMES BIBLE — TEXT SOURCES
+KJV text is public domain in the United States. Source formatting varies; review each source for its terms in your location.
+
+01 Nigel Msipa · Public Domain Bibles
+https://github.com/nigelmsipa/public-domain-bibles/blob/master/KJV.txt
+
+02 Scrollmapper · Bible Databases
+https://github.com/scrollmapper/bible_databases/blob/master/formats/txt/KJV.txt
+
+03 BONIJJ360 · KJV Bible
+https://github.com/BONIJJ360/Kjv-Bible/blob/main/kjv_kjv.txt
+
+04 dabignerd · bible.txt
+https://github.com/dabignerd/bible.txt/blob/main/bible.txt
+
+05 zawndpro · KJV
+https://github.com/zawndpro/kjv/blob/main/King%20James%20Bible
+
+06 red-magic · Bible
+https://github.com/red-magic/bible/blob/master/txt/kjv.txt
+
+07 tushortz · Bible
+https://github.com/tushortz/Bible/blob/master/json/kjv.json
+
+08 Richard Bolt · Bible Text
+https://github.com/richardbolt/django-bibletext/blob/master/bibletext/fixtures/kjv.json
+
+09 OMECO4Christ · KJV TXT Files
+https://github.com/omeco4christ/kjv-txt-files
+
+10 LinuxNinja · Scripture Corpus
+https://github.com/linuxninja39/scripture-corpus
